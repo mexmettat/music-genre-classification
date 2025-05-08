@@ -84,8 +84,8 @@ The interface was built using **MATLAB App Designer** and includes:
 
 ### 🖼️ Application Screenshots
 
-![App Screenshot](screenshots/app1.png)
-![App Screenshot](screenshots/app2.png)
+![App Screenshot](screenshots/app1.jpg)
+![App Screenshot](screenshots/app2.jpg)
 
 ## 👥 Authors
 
