@@ -102,5 +102,9 @@ The interface was built using **MATLAB App Designer** and includes:
 - [MATLAB Documentation](https://www.mathworks.com/help/matlab/)
 - [Turkish Article on Music Genre Classification](https://dergipark.org.tr/tr/download/article-file/3725383)
 
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ---
 
