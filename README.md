@@ -58,6 +58,35 @@ The interface was built using **MATLAB App Designer** and includes:
 - **Coarse KNN** had the lowest accuracy and needs further improvement.
 - Confusion matrices helped analyze misclassifications in detail.
 
+## 🚀 Usage
+
+1. Run the application in MATLAB (via the App Designer environment or by opening the `.mlapp` file).
+2. Once the main screen is open, follow these steps:
+
+### 1️⃣ Upload a Music File
+- Click the **"Select File"** button to choose a `.wav` music file.
+- The name and format of the uploaded file will be displayed on the interface.
+
+### 2️⃣ Select a Classification Algorithm
+- Choose a classification algorithm from the dropdown menu:
+  - Fine Tree, Medium Tree, Coarse Tree  
+  - Linear SVM, Quadratic SVM  
+  - Fine KNN, Medium KNN, Coarse KNN  
+  - Boosted Trees  
+  - Neural Networks (Narrow, Medium)
+
+### 3️⃣ View the Results
+- The selected algorithm will classify the music file.
+- The predicted genre will be shown in the **GENREEditField** box.
+- A **frequency spectrum graph** of the uploaded music will also be displayed for visual analysis.
+
+---
+
+### 🖼️ Application Screenshots
+
+![App Screenshot](screenshots/app1.png)
+![App Screenshot](screenshots/app2.png)
+
 ## 👥 Authors
 
 - Mehmet Tat  
