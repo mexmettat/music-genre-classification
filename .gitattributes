@@ -1,2 +1,4 @@
-**/*.mlapp linguist-language=MATLAB
-**/*.mlapp linguist-detectable=true
+*.mlapp linguist-language=MATLAB
+*.mlapp linguist-detectable=true
+/Signal Project/*.mlapp linguist-language=MATLAB
+/Signal Project/*.mlapp linguist-detectable=true
